@@ -1,0 +1,6 @@
+@BanMyPham_HostAddress = http://localhost:5133
+
+GET {{BanMyPham_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
